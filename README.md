@@ -1,5 +1,5 @@
 <!--Intro-->
-<h1 align = "center">Welcome to my profile<h1>
+<h1 align = "center">Welcome to my profile</h1>
 <!--About-->
 <h2 align = "center">☞ About me: ☜</h2>
 <div align= "left">
