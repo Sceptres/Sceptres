@@ -17,15 +17,15 @@ class Me {
   public Me() {
     this.name = "Abdallah Alqashqish";
     this.status = "a first year engineering student at McMaster University.";
-    this.goal = "I aim to study Software Engineering and Managment";
+    this.goal = "I aim to study Software Engineering and Managment.";
     this.spokenLangs = {"en", "ar"};
     this.tools = {"LibGDX", "Spring", "Android"};
     this.programmingLangs = {"Java/Kotlin", "PHP", "Python"};
-    this.hobbies = {"Games", "Music", "Coding", };
+    this.hobbies = {"Games", "Music", "Coding"};
   }
 
   public String toString() {
-    return String.format("My name is %s. I am currently %s", )
+    return String.format("My name is %s. I am currently %s. %s", this.name, this.status, this.goal);
   }
 }
 
