@@ -1,10 +1,5 @@
 <!--Intro-->
 <h1 align = "center">Welcome to my profile<h1>
-<br/>
-<div align = "center">
-	<img src = "assets/profile_pic.png">
-</div>
-<br/>
 <!--About-->
 <h2 align = "center">☞ About me: ☜</h2>
 <div align= "left">
