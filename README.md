@@ -46,7 +46,7 @@ public class Main() {
 	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sceptres&layout=compact" width="400" height="300"/>
 </a>
 <a href="https://github.com/Sceptres?tab=repositories">
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sceptres&issues&show_icons=true" width="400" height="200"/>
+	<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sceptres&countPrivates=True&issues&show_icons=true" width="400" height="200"/>
 </a>
 <br><br>
 <!--Contacts-->
