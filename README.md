@@ -43,7 +43,7 @@ public class Main() {
 <!--Stats-->
 <a href="https://github.com/Sceptres?tab=repositories">
 	<!--&layout=compact doesnt work-->
-	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sceptres" width="400" height="300"/>
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" width="400" height="300"/>
 </a>
 <a href="https://github.com/Sceptres?tab=repositories">
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sceptres&issues&show_icons=true" width="400" height="200"/>
