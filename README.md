@@ -63,4 +63,4 @@ public class Main() {
 <a href="https://rough-popcorn-b16.notion.site/Abdallah-Alqashqish-946159e6d5984ce0bddfd369ca4cfb7d">
     <img src="assets/notion.png">
 </a>
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=Sceptres" alt="visitors"></p>
+<p><img src="https://komarev.com/ghpvc/?username=Sceptres&color=fd428d" alt="visitors"></p>
