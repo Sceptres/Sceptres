@@ -57,7 +57,7 @@ public class Main() {
 <a href="mailto:abdalq2003@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/abdallah-alqashqish-501406221/">
+<a href="https://www.linkedin.com/in/sceptres/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />        
 </a>&nbsp;&nbsp;
 <a href="https://rough-popcorn-b16.notion.site/Abdallah-Alqashqish-946159e6d5984ce0bddfd369ca4cfb7d">
