@@ -16,12 +16,12 @@ class Me {
   
   public Me() {
     this.name = "Abdallah Alqashqish";
-    this.status = "a second year software engineering & management student at McMaster University.";
+    this.status = "a third year software engineering & management student at McMaster University.";
     this.goal = "I aim at mastering the Java programming language.";
     this.spokenLangs = {"en", "ar"};
-    this.tools = {"LibGDX", "Spring", "Android"};
-    this.programmingLangs = {"Java/Kotlin", "PHP", "Python"};
-    this.hobbies = {"Games", "Music", "Coding", "Soccer", "Cars/Motorcycles"};
+    this.tools = {"LibGDX", "Spring Framework", "Android SDK", "Log4J", "Apache Commons Library", "JUnit", "Room Database", "MySQL", "IBM db2"};
+    this.programmingLangs = {"Java/Kotlin", "PHP", "Python", "JavaScript", "SQL", "Bash Script", "HTML/CSS"};
+    this.hobbies = {"Games", "Music", "Coding", "Soccer", "Basketball", "Cars/Motorcycles"};
   }
 
   public String toString() {
