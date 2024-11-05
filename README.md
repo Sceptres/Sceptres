@@ -10,7 +10,7 @@
 <div align="center">
   
 # 💫About Me :
-🔭 I’m currently working on an offline music player called : [Vibes Music](https://play.google.com/store/apps/details?id=com.aaa.vibesmusic)
+🔭 I’m currently working at McMaster Google Developer Student Clubs (GDSC) as an Open Source Developer : [DBAC Gym App](https://github.com/DSC-McMaster-U/DBAC-Companion-App)
   
 🌱 I’m currently learning : ![OpenGL](https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl) 
 
