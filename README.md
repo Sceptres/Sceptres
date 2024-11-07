@@ -16,8 +16,6 @@
 
   💼 I’m looking for a Software Engineering Internship/COOP for Summer 2025
 
-  🤔 What features do people look for in an offline music application?
-
   💬 Ask me for any help
 
   📫 How to reach me:  
