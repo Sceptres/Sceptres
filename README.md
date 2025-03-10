@@ -11,15 +11,6 @@
   
 # 💫About Me :
 🔭 I’m currently working at McMaster Google Developer Student Clubs (GDSC) as an Open Source Developer : [DBAC Gym App](https://github.com/DSC-McMaster-U/DBAC-Companion-App)
-  
-🌱 I’m currently learning : ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=2361DAFB) ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white) 
-
-  💼 I’m looking for a Software Engineering Internship/COOP for Summer 2025
-
-  💬 Ask me for any help
-
-  📫 How to reach me:  
-  Email me at "alqashqa@mcmaster.ca" or view my contact information at my <a href="https://sceptres.github.io/portfolio/">Portfolio</a> website.
 
 
 ## 🌐Socials
