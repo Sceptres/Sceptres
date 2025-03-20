@@ -43,9 +43,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sceptres&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats-seven-teal-98.vercel.app/api/top-langs/?username=Sceptres&layout=compact&theme=radical)
 
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sceptres&theme=discord&no-frame=false&no-bg=false&margin-w=4)
-
 ---
 ![](https://komarev.com/ghpvc/?username=Sceptres&color=fd428d)
 </div>
