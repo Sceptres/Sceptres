@@ -8,10 +8,6 @@
 
 ---
 <div align="center">
-  
-# 💫About Me :
-🔭 I’m currently working at McMaster Google Developer Student Clubs (GDSC) as an Open Source Developer : [DBAC Gym App](https://github.com/DSC-McMaster-U/DBAC-Companion-App)
-
 
 ## 🌐Socials
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://ca.linkedin.com/in/abdallahalqashqish?trk=public_profile_browsemap)
