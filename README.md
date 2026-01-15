@@ -29,7 +29,7 @@
 [![Databases](https://skillicons.dev/icons?i=postgres,sqlite,mysql&theme=dark)](https://skillicons.dev)
 
 ### DevOps & Tools:
-[![DevOps & Tools](https://skillicons.dev/icons?i=jenkins,maven,gradle,vercel,nginx,git,github,androidstudio,idea,vscode,ubuntu&theme=dark)](https://skillicons.dev)
+[![DevOps & Tools](https://skillicons.dev/icons?i=jenkins,maven,gradle,vercel,nginx,git,github,androidstudio,idea,vscode,ubuntu,docker&theme=dark)](https://skillicons.dev)
 
 ### Other Technologies:
 [![Other Technologies](https://skillicons.dev/icons?i=anaconda,firebase,wordpress&theme=dark)](https://skillicons.dev)
