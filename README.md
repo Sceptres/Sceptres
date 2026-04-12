@@ -18,7 +18,7 @@
 [![Languages](https://skillicons.dev/icons?i=java,kotlin,ts,js,cpp,py,php,bash,html,css&theme=dark)](https://skillicons.dev)
 
 ### Frameworks & Libraries:
-[![Frameworks & Libraries](https://skillicons.dev/icons?i=react,express,nodejs,spring,flask,selenium,jquery&theme=dark)](https://skillicons.dev)
+[![Frameworks & Libraries](https://skillicons.dev/icons?i=react,next,express,nodejs,spring,flask,selenium,jquery&theme=dark)](https://skillicons.dev)
 <br>
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=2361DAFB) 
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
