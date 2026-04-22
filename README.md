@@ -26,7 +26,7 @@
 ![OpenGL](https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl)
 
 ### Databases:
-[![Databases](https://skillicons.dev/icons?i=postgres,sqlite,mysql&theme=dark)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=postgres,sqlite,mysql,mongodb&theme=dark)](https://skillicons.dev)
 
 ### DevOps & Tools:
 [![DevOps & Tools](https://skillicons.dev/icons?i=jenkins,maven,gradle,vercel,nginx,git,github,androidstudio,idea,vscode,ubuntu,docker&theme=dark)](https://skillicons.dev)
